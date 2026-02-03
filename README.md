@@ -1,2 +1,13 @@
-Hola, soy Adrián Ortega y este es mi repositorio en GIThub. Soy estudiante de primer año en ASIR. Tengo 18 años y de momento me gusta y me interesa un monton la programación con python. 
-En este repositorio solamente tengo subido proyectos simples con python.
+Este repositorio es un repositorio donde he organizado todo lo hecho de Python hasta la fecha.
+
+
+
+Incluye calculadoras, juegos y proyectos básicos de clase
+
+
+
+La estructura es:
+
+* Calculadoras/ -> calculadora
+* proyectos\_clase/ -> scripts de juegos inventados en clase, como adivinanza o tirar dados
+* juegos/ -> scripts básicos donde simulo el inicio del videojuego Pokemon
